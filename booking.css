@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Header and menu buttons */
+
+header {
+    height: 50%;
+    padding-bottom: 2%;
+    background-size: cover;
+    background-color: black;
+}
+
+.left-navbar {
+    float: left;
+}
+
+.right-navbar {
+    text-align: right;
+}
+
+nav a, ul {
+    vertical-align: middle;
+    text-decoration: none;
+    color: white;
+}
+
+ul li:nth-child(1) {
+    letter-spacing: 3px;
+    font-size: x-large;
+}
+
+li {
+    text-decoration: none;
+    display: inline-block;
+    padding: 1rem;
+}
+
+/* Intro to Booking Page */
+.welcome-photo {
+    box-shadow: 1px 1px 20px black;
+}
+
+.img-container {
+    position: relative;
+}
+
+.welcome-message {
+    font-size: 8vw;
+    margin: 10px;
+    letter-spacing: 3px;
+    left: 100px;
+    text-align: center;    
+}
+
+
+/* The Table */
+table {
+    margin: auto;
+
+    width: 90%;
+}
+
+hr {
+    margin: 20px;
+}
+
+td, th {
+    text-align: center;
+    padding: 15px;
+}
+
+/*  Ted the Rhino */
+figure {
+    color: black;
+    font-style: italic;
+    text-align: center;
+    margin: 5%;
+}
+
+figure img {
+    width: 100%;
+    text-align: center;
+}
+
+/*  Footer  */
+footer {
+    background-color: black;
+    padding: 20px;
+    clear: both;
+}
+
+footer p {
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+    color:white;
+    margin: 20px;
+    
+}
