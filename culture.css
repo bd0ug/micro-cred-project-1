@@ -38,7 +38,10 @@ li {
     padding: 1rem;
 }
 
-/*  Grid Layout of page */
+
+
+
+/*  Grid */
 
 .image-grid {
     width: 33%;
@@ -48,13 +51,14 @@ li {
     background-color: white;
 }
 
-.image-grid > p, h1 {
-    padding: 50px;
+.image-grid > p {
+    padding: 25px;
     margin-top: 10%;
-    height: 10%;
+    height:fit-content;
     text-align: center;
     vertical-align: middle;
-    line-height: 2.5rem;
+    font-size: 1.5vw;
+    line-height: 2.2rem;
 }
 .image-grid img{
     width: 100%;
