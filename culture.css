@@ -38,15 +38,7 @@ li {
     padding: 1rem;
 }
 
-/*  Page Contents */
-.welcome-message {
-    font-size: 8vw;
-    margin: 10px;
-    letter-spacing: 3px;
-    left: 100px;
-    text-align: center;    
-}
-
+/*  Grid Layout of page */
 
 .image-grid {
     width: 33%;
