@@ -87,7 +87,7 @@ li {
 
 .second-image {
     float: right;
-    padding: 50px;
+    padding: 0px 50px 50px;
 }
 
 .second-image-text {
